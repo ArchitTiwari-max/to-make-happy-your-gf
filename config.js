@@ -1,5 +1,5 @@
 // Global config for personalization
 window.AppConfig = {
-  recipientName: "mahi",
+  recipientName: "Rishika",
   senderName: "archit"
 };
